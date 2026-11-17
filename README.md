@@ -30,3 +30,5 @@ O **Cleanpro Serviços** é uma aplicação web voltada para a otimização da r
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/CristianoRonaldo15/cleanpro-servicos-mvp.git](https://github.com/CristianoRonaldo15/cleanpro-servicos-mvp.git)
+
+> **Status do MVP:** Em desenvolvimento ativo — Módulo de banco de dados e rotas iniciais configurados.
